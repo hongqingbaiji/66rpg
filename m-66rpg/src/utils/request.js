@@ -1,7 +1,7 @@
 import axios from 'axios'
 
 const request = axios.create({
-  baseURL: 'http://m.66rpg.com/main'
+  baseURL: 'https://debug-www.66rpg.com'
 })
 
 export default request
