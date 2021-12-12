@@ -4,10 +4,11 @@
 
 :root {
   /* 定义变量，下面可以直接使用变量 */
-  --color-text: #666;
+  --color-text: #333;
   --color-high-text: #ff6600;
   --color-tint: #ff8198;
   --color-background: #f7f7f7;
+  --color-navbar-background: #fff;
   --font-size: 14px;
   --line-height: 1.5;
 }
